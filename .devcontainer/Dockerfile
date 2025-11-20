@@ -1,4 +1,4 @@
-# To find available Node images, see https://mcr.microsoft.com/en-us/product/devcontainers/javascript-node/tags
+bullseye is exactly?# To find available Node images, see https://mcr.microsoft.com/en-us/product/devcontainers/javascript-node/tags
 
 # [Choice] Node.js version
 ARG VARIANT="dev-24-bullseye"
